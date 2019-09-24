@@ -26,3 +26,10 @@ DevOps brings together Dev+Testing & Ops+Infrastructure Teams into single team. 
 <img src="../Assets/ConDelivery.png" alt="pic"/>
 <img src="../Assets/ConIntegration.png" alt="pic"/>
 <img src="../Assets/ConDeployment.png" alt="pic"/>
+
+**Advantages**
+
+- Time taken to create and deliver software is reduced
+- Complexity of maintaining application is reduced
+- Improved collaboration between developers and operations team
+- Continuous integration and delivery ensure faster time to market
