@@ -6,6 +6,7 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 
 1. [⚛React Fundamentals](./React/WhatisReact.md)
 
-## Agile
+## Agile & DevOps
 
 1. [🐿Waterfall vs Agile methodologies](./Agile/WaterfallAgile.md)
+1. [🔄 What is DevOps?](./Agile/DevOps.md)
