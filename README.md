@@ -8,4 +8,4 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 
 ## Agile
 
-1. [🐿 Waterfall vs Agile methodolgies](./Agile/WaterfallAgile)
+1. [🐿 Waterfall vs Agile methodologies](./Agile/WaterfallAgile)
