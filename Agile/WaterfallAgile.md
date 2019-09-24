@@ -46,6 +46,8 @@ Workflow of Agile model:
 
 Client requirements are better understood because they're integrated with the scrum team. The product is delivered faster with a review of implemented Features at the end of each sprint.
 
+<img src="../Assets/AgileWorkflow.png" alt="pic"/>
+
 **Disadvantages**
 
 - The product gets tested only on developer computers, not on production systems (difficult to mimic).

@@ -10,4 +10,4 @@ Agile model is good for gathering requirements and addressing gap between client
 
 DevOps brings together Dev+Testing & Ops+Infrastructure Teams into single team. Can build solutions which is being tested in production-like environment. Ops team can analyse the environment and make suggestions for adjustments to code, based on data.
 
-<img src="../Assets/devandops.png" alt="pic"/>
+<img src="../Assets/DevAndOps.png" alt="pic"/>
