@@ -52,4 +52,4 @@ Client requirements are better understood because they're integrated with the sc
 - Developers and Ops team running in silos. Devs run sprints and building features. Then passed to Ops team. Their job to install software and ensure environment is stable.
 - If product fails in production servers (setup configuration, missing dependency, link to API etc), the ops team are clueless and send product back to dev team.
 
-This is where [DevOps](./Agile/DevOps) comes in..
+This is where [DevOps](./DevOps.md) comes in..

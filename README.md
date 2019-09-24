@@ -4,8 +4,8 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 
 ## React
 
-1. [⚛ React Fundamentals](./React/WhatisReact)
+1. [⚛React Fundamentals](./React/WhatisReact.md)
 
 ## Agile
 
-1. [🐿 Waterfall vs Agile methodologies](./Agile/WaterfallAgile)
+1. [🐿Waterfall vs Agile methodologies](./Agile/WaterfallAgile.md)
