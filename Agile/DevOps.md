@@ -33,3 +33,5 @@ DevOps brings together Dev+Testing & Ops+Infrastructure Teams into single team. 
 - Complexity of maintaining application is reduced
 - Improved collaboration between developers and operations team
 - Continuous integration and delivery ensure faster time to market
+
+[🛤 Infrastructure As Code](./IAC.md)
