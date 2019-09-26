@@ -11,3 +11,4 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 1. [🐿Waterfall vs Agile methodologies](./Agile/WaterfallAgile.md)
 1. [🔄 What is DevOps?](./Agile/DevOps.md)
 1. [🛤 Infrastructure As Code](./Agile/IAC.md)
+1. [☷ Why use Terraform?](./Agile/Terraform.md)
