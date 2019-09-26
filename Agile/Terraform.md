@@ -2,10 +2,13 @@
 
 - Popular IAC Tool - Opensource
 
-- Allows you to define Infrastructure for variety of providers (Azure, AWS, Google)
+[Infrastructure As Code](./Agile/IAC.md)
+
+- Terraform allows you to define Infrastructure for variety of providers (Azure, AWS, Google)
 - Uses simple declarative programming language called HCL to deploy using variety of commands
-- Usually an environment would require setting up routing, internet gateways and network connections etc
-- Instead of configuring the environment in a manual way, we can use IAC tool
+
+Usually an environment would require setting up routing, internet gateways and network connections etc. Instead of configuring the environment in a manual way, we can use IAC tool.
+
 - Terraform code - uses HCL and supports JSON syntax
 - Write code to define and provision and manage the cloud infrastructure
 - Means we can automate the provisioning and deployment process
