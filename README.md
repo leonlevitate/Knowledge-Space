@@ -12,3 +12,4 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 1. [🔄 What is DevOps?](./Agile/DevOps.md)
 1. [🛤 Infrastructure As Code](./Agile/IAC.md)
 1. [🔡 Why use Terraform?](./Agile/Terraform.md)
+1. [⚙CI & CD](./Agile/CI.md)
