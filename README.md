@@ -13,3 +13,7 @@ A one-stop shop for documenting my key notes when learning new technologies and 
 1. [🛤 Infrastructure As Code](./Agile/IAC.md)
 1. [🔡 Why use Terraform?](./Agile/Terraform.md)
 1. [⚙CI & CD](./Agile/CI.md)
+
+## .Net
+
+1. [What is .Net?](./Net/net.md)
